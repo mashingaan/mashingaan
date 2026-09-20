@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+**Mikhail Izhutkin e/acc**
+
+Bachelor's degree in International Relations and Data Science diploma (2026)
+
+Full-stack AI-native builder.
+
+I love technology and nature.
+
+Currently working on [SlopCash](https://slop.cash/) and Agentic-AI layer.
+
+Top-5% OSS reviwer in ElizaOS.
 <!--
 **mashingaan/mashingaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
