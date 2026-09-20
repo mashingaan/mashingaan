@@ -8,7 +8,7 @@ Full-stack AI-native builder.
 
 I love technology and nature.
 
-Currently working on [SlopCash](https://slop.cash/) and Agentic-AI layer.
+Currently working on [SlopCash](https://slop.cash/) and Financial layer for AI-agents .
 
 Top-5% OSS reviwer in ElizaOS.
 <!--
