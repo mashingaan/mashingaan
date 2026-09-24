@@ -2,7 +2,7 @@
 
 **Mikhail Izhutkin - e/acc**
 
-Bachelor's degree in International Relations and Data Science diploma (2026)
+Bachelor's degree in International Relations and Data Analytics diploma (2026)
 
 Full-stack AI-native builder.
 
